@@ -1,6 +1,6 @@
 ---
 title: "Cheng LIU"
-image: images/lianyujun_2025.png
+image: images/liucheng_2025.png
 about:
   id: hero-heading
   template: trestles
@@ -8,11 +8,11 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: arlionn@163.com
-      href: mailto:arlionn@163.com
+      text: liuc2513@gmail.com
+      href: mailto:liuc2513@gmail.com
     - icon: github
       text: arlionn
-      href: https://github.com/lianyujun
+      href: https://github.com/liuc2513@gmail.com
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
@@ -36,7 +36,7 @@ about:
       href: https://www.lianxh.cn
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: LiuC CV202506.pdf  
 ---
 
 ::: {#hero-heading}
