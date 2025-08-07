@@ -4,10 +4,10 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Cheng LIU"
+  site-url: https://liuc2513-png.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/lianliuc2513-pngyujun/liuc2513-png.github.io
   repo-actions: [edit, issue]
   
   page-footer:
